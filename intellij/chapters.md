@@ -6,15 +6,16 @@ Newsletter : https://www.javaspecialists.eu/
 ## General
 1.  CTRL+SHIFT+2    : Find a command
     Help > Keymap Reference ==> PDF
-2.  ALT+ENTER       : Fix everything
-3.  _               : Autoscroll to-from source
-4.  CTRL+ENTER      : Create new ...
+2.  ALT+ENTER                   : Fix everything
+3.  _                           : Autoscroll to-from source
+4.  CTRL+ENTER                  : Create new ...
     ==> TODO : check shortcut on windows
-5.  _               : Live templates (psvm, sout, soutm, fori, serr, iter, etc...)
+5.  _                           : Live templates (psvm, sout, soutm, fori, serr, iter, etc...)
     ==> TODO : show how to create a new one ?
-6.  ALT+SHIFT+S     : Syntax aware selection
+6.  ALT+SHIFT+S                 : Syntax aware selection
     ==> TODO : check shortcut on windows
-7.  ALT+SHIFT+UP/DOWN - CTRL+D  : Move line up/down - Delete line
+7.  _                           : Code regions
+8.  ALT+SHIFT+UP/DOWN - CTRL+D  : Move line up/down - Delete line
 
 ## Coding speed
 1.  CTRL+SPACE                  : Code and Variables completion ==> SmartType Completion (ALT+SHIFT+SPACE)
