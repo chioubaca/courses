@@ -4,7 +4,7 @@ Newsletter : https://www.javaspecialists.eu/
 
 # Table of contents
 ## General
-1.  CTRL+SHIFT+2    : Find a command
+1.  CTRL+SHIFT+A                : Find a command
     Help > Keymap Reference ==> PDF
 2.  ALT+ENTER                   : Fix everything
 3.  _                           : Autoscroll to-from source

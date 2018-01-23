@@ -11,6 +11,6 @@ public class BankAccount {
     }
 
     public boolean validateParams() throws JreExecException {
-        return (bic == null || bic.length() < 3 || iban == null || iban.length() < 14);
+        return (bic != null && bic.length() >= 3 && iban != null && iban.length() < 14);
     }
 }
